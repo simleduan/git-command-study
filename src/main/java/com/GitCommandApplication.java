@@ -1,0 +1,1 @@
+package com;import org.springframework.boot.SpringApplication;import org.springframework.boot.autoconfigure.SpringBootApplication;/** * Created by cainiao on 2021/7/28 10:17 下午 */@SpringBootApplicationpublic class GitCommandApplication {    public static void main(String[] args) {        SpringApplication.run(GitCommandApplication.class,args);    }}

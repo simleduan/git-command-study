@@ -1,0 +1,1 @@
+package com.component;import org.springframework.stereotype.Component;import javax.annotation.PostConstruct;/** * Created by cainiao on 2021/7/28 10:20 下午 */@Componentpublic class ComponentOne {    @PostConstruct    public void init(){        System.out.println("git 命令学习");    }}
